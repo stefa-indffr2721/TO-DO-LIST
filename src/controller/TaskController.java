@@ -37,7 +37,7 @@ public class TaskController {
                 System.out.print("Введите описание задачи: ");
                 String text = scanner.nextLine();
                 manager.addTask(text);
-                System.out.println("Задача добавлена.");
+                System.out.println("Задача добавлена");
             }
 
             else if (choice == 3) {
@@ -51,9 +51,9 @@ public class TaskController {
 
                 if (answer.equals("y")) {
                     manager.removeTask(index);
-                    System.out.println("Задача удалена.");
+                    System.out.println("Задача удалена");
                 } else {
-                    System.out.println("Удаление отменено.");
+                    System.out.println("Удаление отменено");
                 }
             }
 
@@ -62,7 +62,7 @@ public class TaskController {
                 System.out.print("Введите номер задачи: ");
                 int index = scanner.nextInt();
                 manager.completeTask(index);
-                System.out.println("Задача отмечена как выполненная.");
+                System.out.println("Задача отмечена как выполненная");
             }
 
             else if (choice == 5) {
@@ -100,15 +100,15 @@ public class TaskController {
                 String newText = scanner.nextLine();
 
                 manager.editTask(index, newText);
-                System.out.println("Задача изменена.");
+                System.out.println("Задача изменена");
             }
 
             else if (choice == 0) {
-                System.out.println("Выход...");
+                System.out.println("Выход");
             }
 
             else {
-                System.out.println("Неверный выбор.");
+                System.out.println("Неверный выбор");
             }
 
             System.out.println();
