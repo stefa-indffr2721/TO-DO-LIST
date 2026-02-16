@@ -21,7 +21,7 @@ public class TaskView {
     public void showTasks(ArrayList<Task> tasks) {
 
         if (tasks.size() == 0) {
-            System.out.println("Список задач пуст.");
+            System.out.println("Список задач пуст");
             return;
         }
 
