@@ -1,10 +1,10 @@
-package app;
+package app1;
 
 import model.TaskManager;
 import view.TaskView;
 import controller.TaskController;
 
-public class Main {
+public class Main1 {
 
     static void main(String[] args) {
 
