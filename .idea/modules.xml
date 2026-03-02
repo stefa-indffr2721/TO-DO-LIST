@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CRM-system/CRM-system.iml" filepath="$PROJECT_DIR$/CRM-system/CRM-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassWork.iml" filepath="$PROJECT_DIR$/ClassWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaymentMethod/PaymentMethod.iml" filepath="$PROJECT_DIR$/PaymentMethod/PaymentMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/ToDoList/ToDoList.iml" filepath="$PROJECT_DIR$/ToDoList/ToDoList.iml" />
     </modules>
   </component>
