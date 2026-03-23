@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/B52/B52.iml" filepath="$PROJECT_DIR$/B52/B52.iml" />
       <module fileurl="file://$PROJECT_DIR$/CRM-system/CRM-system.iml" filepath="$PROJECT_DIR$/CRM-system/CRM-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cat/Cat.iml" filepath="$PROJECT_DIR$/Cat/Cat.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassWork.iml" filepath="$PROJECT_DIR$/ClassWork.iml" />
